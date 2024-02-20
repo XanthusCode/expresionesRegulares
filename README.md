@@ -6,7 +6,18 @@
 
 `const  pattern = /^\d{1,2}\.\d{3}\.\d{3}-\d{1}$/;`
 
-`pattern. Match('12.345.678-9');`
+`let nit = '12.345.678-9';`
+
+`if (pattern.test(nit)) {`
+
+  `console.log("El nit es válido.");`
+
+`} else {`
+
+  `console.log("El nit no es válido.");`
+
+`}`
+
 
 
 
