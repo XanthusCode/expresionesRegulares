@@ -21,7 +21,7 @@
 
 
 
-##### ** Ejercicio 2: Verificar un código postal**
+##### **Ejercicio 2: Verificar un código postal**
 
 **Enunciado:** Crea una expresión regular que valide un código postal con el formato de cinco dígitos.
 
@@ -81,7 +81,7 @@
 
 
 
-**Ejercicio 5: Verificar una dirección URL**
+##### **Ejercicio 5: Verificar una dirección URL**
 
 **Enunciado:** Crea una expresión regular que valide una dirección URL básica.
 
@@ -103,7 +103,7 @@
 
 
 
-##### ** Ejercicio 6: Validar un nombre de usuario**
+##### **Ejercicio 6: Validar un nombre de usuario**
 
 **Enunciado:** Crea una expresión regular que valide un nombre de usuario. El nombre de usuario debe contener solo letras minúsculas y números, con longitud entre 3 y 10 caracteres.
 
@@ -147,7 +147,7 @@
 
 
 
-**Ejercicio 8: Validar un formato de fecha**
+##### **Ejercicio 8: Validar un formato de fecha**
 
 ** Enunciado:** Crea una expresión regular que valide una fecha en formato "dd/mm/yyyy".
 
