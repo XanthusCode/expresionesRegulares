@@ -100,7 +100,7 @@ if (IPv4.test(ipAddress)) {
 }
 
 // **Ejercicio 8: Validar un formato de fecha
-// Enunciado: Crea una expresión regular que valide una fecha en formato "dd/mm/yyyy"
+// Enunciado: Crea una expresión regular que valide una fecha en formato "dd/mm/yyyy".
 
 let formato = /^(0[1-9]|[1-2][0-9]|3[0-1])\/(0[1-9]|1[0-2])\/\d{4}$/;
 let fecha = "31/12/2024";
